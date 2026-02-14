@@ -1,16 +1,8 @@
-<h1 align="left">Hi, my name is Henrique, and I will be a future back-end programmer ⚙️</h1>
+<h1 align="center">Henrique Guedes Costa</h1>
 
 ###
 
-<p align="left">My name is Henrique and i'm from Brasil</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👨‍💻 Back-end Developer in Training<br>🐍 Learning Python, Java ☕, and JavaScript 💻<br>🚀 Always striving to evolve</p>
+<p align="left">My name is Henrique, I am 15 years old and I live in Maranhão.</p>
 
 ###
 
@@ -19,13 +11,13 @@
 ###
 
 <div align="left">
- 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
 
+<img src="https://raw.githubusercontent.com/hguedessc/hguedessc/output/snake.svg" alt="Snake animation" />
 
+###
